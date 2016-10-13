@@ -83,7 +83,7 @@
                     nameof(RElbowYaw),
                     nameof(RElbowRoll),
                     nameof(RWristYaw),
-                    nameof(HeadPitch),
+                    nameof(HipPitch),
                     nameof(LHand),
                     nameof(RHand)
                 };
